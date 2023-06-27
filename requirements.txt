@@ -1,0 +1,2 @@
+Flask==2.3.2
+news-please==1.5.33
